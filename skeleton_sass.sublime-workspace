@@ -1,0 +1,1533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sm",
+				"smtp"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"load",
+				"load_library	CI - Load Library"
+			],
+			[
+				"read",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"left_p",
+				"left_prods"
+			],
+			[
+				"msgAjaxA",
+				"msgAjaxAmigo"
+			],
+			[
+				"form",
+				"formEnvieAmigo"
+			],
+			[
+				"animate",
+				".animate	animate"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"carou",
+				"carouselUl"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"fs",
+				"fs	font-style: ${italic};"
+			],
+			[
+				"firt",
+				"first-child"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"val",
+				"val2"
+			],
+			[
+				"va",
+				"val2"
+			],
+			[
+				"test",
+				"testShit2"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"fl",
+				"flexslider"
+			],
+			[
+				"flex",
+				"flex-viewport"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"normal",
+				"normal-text"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"sp",
+				"span-collumns"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"nor",
+				"normal-text"
+			],
+			[
+				"span",
+				"span-columns"
+			],
+			[
+				"patter",
+				"pattern-2"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"Z",
+				"z-index"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"w",
+				"with"
+			],
+			[
+				"lt-",
+				"lt-ie9"
+			],
+			[
+				"moz",
+				"moz-box-shadow"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"midia",
+				"midia-2"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"foc",
+				"focus"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"conten",
+				"content-right-2"
+			],
+			[
+				"content",
+				"content-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hide",
+				".hide	hide"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"fadeOut",
+				".fadeOut	fadeOut"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"red-",
+				"red-ballon-static"
+			],
+			[
+				"show",
+				".show	show"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"first",
+				":first-of-type"
+			],
+			[
+				"arial",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"sans",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"bdrz",
+				"bdrz:w	-webkit-border-radius"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"menu",
+				"menu-pre"
+			],
+			[
+				"ti",
+				"ti:-	text-indent:-"
+			],
+			[
+				"tsh",
+				"tsh+	text-shadow+"
+			],
+			[
+				"bgi",
+				"bgi	background-image"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"helv",
+				"Arial, Helvetica, sans-serif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"proje",
+				"Project: Edit"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"rene",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"pac re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"attac",
+				"Snippet: E-mail Attach File"
+			],
+			[
+				"attach",
+				"Snippet: E-mail Attach File"
+			],
+			[
+				"controlle",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"broe",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"setup ser",
+				"SFTP: Setup Server…"
+			],
+			[
+				"setu",
+				"SFTP: Setup Server…"
+			],
+			[
+				"int",
+				"Package Control: Install Package"
+			],
+			[
+				"else",
+				"Snippet: if … else …"
+			],
+			[
+				"ajax",
+				"Snippet: ajax"
+			],
+			[
+				"slided",
+				"Snippet: slideDown"
+			],
+			[
+				"show",
+				"Snippet: show"
+			],
+			[
+				"document",
+				"Snippet: document ready (safe)"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pag",
+				"Package Control: List Packages"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"docum",
+				"Snippet: document ready - jQuery"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"sfto",
+				"SFTP: Browse Server…"
+			],
+			[
+				"hint",
+				"JSHint: Linter"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"function",
+				"Snippet: replaceWith (function)"
+			],
+			[
+				"funct",
+				"Snippet: filter (function)"
+			],
+			[
+				"ready",
+				"Snippet: document ready - jQuery"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/indios/.gitignore",
+		"/Applications/MAMP/htdocs/indios/sass/flexslider.scss",
+		"/Applications/MAMP/htdocs/indios/sass/font-awesome.scss",
+		"/Applications/MAMP/htdocs/indios/sass/_skeleton.scss",
+		"/Applications/MAMP/htdocs/indios/sass/skeleton.scss",
+		"/Applications/MAMP/htdocs/indios/sass/skeleton.css",
+		"/Applications/MAMP/htdocs/indios/indios.sublime-project",
+		"/Applications/MAMP/htdocs/indios/js/plugins.js",
+		"/Users/edu/Desktop/FlexSlider-version-2.2/demo/index.html",
+		"/Applications/MAMP/htdocs/indios/sass/jquery.heroCarousel.scss",
+		"/Applications/MAMP/htdocs/indios/sass/jquery.heroCarousel.css",
+		"/Users/edu/Desktop/jquery.heroCarousel-1.3/jquery.easing-1.3.js",
+		"/Users/edu/Desktop/jquery.heroCarousel-1.3/jquery.heroCarousel-1.3.min.js",
+		"/Applications/MAMP/htdocs/indios/index.html",
+		"/Applications/MAMP/htdocs/indios/404.php",
+		"/Applications/MAMP/htdocs/indios/404.html",
+		"/Applications/MAMP/htdocs/indios/humans.txt",
+		"/Applications/MAMP/htdocs/indios/images/.gitignore",
+		"/Applications/MAMP/htdocs/ci/index.html",
+		"/Applications/MAMP/htdocs/ci/application/views/home.php",
+		"/Applications/MAMP/htdocs/ci/application/config/autoload.php",
+		"/Applications/MAMP/htdocs/zurb/index.html",
+		"/Applications/MAMP/htdocs/ci/application/config/config.php",
+		"/Applications/MAMP/htdocs/ci/application/config/database.php",
+		"/Applications/MAMP/htdocs/ci/application/views/email.php",
+		"/Users/edu/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/ci/application/controllers/email.php",
+		"/Users/edu/Desktop/FileZilla.xml",
+		"/Applications/MAMP/htdocs/ci/application/views/newsletter.php",
+		"/Applications/MAMP/htdocs/ci/index.php",
+		"/Applications/MAMP/htdocs/codeigniter/application/views/header.php",
+		"/Applications/MAMP/htdocs/codeigniter/application/views/footer.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/index 4.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/css/estrutura.css",
+		"/Applications/MAMP/htdocs/belliz-vioti/js/plugins.js",
+		"/Applications/MAMP/htdocs/belliz-vioti/js/main.js",
+		"/Users/edu/Desktop/sandra-checkin/campanha-check-in3.html",
+		"/Applications/MAMP/htdocs/belliz-vioti/sass/_typography.scss",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/home-content.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/header.php",
+		"/Applications/MAMP/htdocs/ninecon/sass/main.scss",
+		"/Applications/MAMP/htdocs/belliz-vioti/sass/_base.scss",
+		"/Applications/MAMP/htdocs/abilitec/css/42",
+		"/Applications/MAMP/htdocs/abilitec/js/main.js",
+		"/Applications/MAMP/htdocs/gruponk-html/config.rb",
+		"/Applications/MAMP/htdocs/belliz-vioti/sass/main.scss",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/videosgerais.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/noticiasgerais.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/css/flexslider.css",
+		"/Users/edu/Desktop/BW Dia das mães/email-mkt-dia-das-maes.html",
+		"/Applications/MAMP/htdocs/belliz-vioti/css/main.css",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/videosgerais.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/index.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/produtobelliz.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/footer.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/noticia.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/marca-kess.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/marca-enox.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/marca-vertix.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/marca-ricca.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/marca-belliz.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/noticia.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/produtobelliz.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/top.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/css/jquery.fancybox.css",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/noticiasbelliz.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/home.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/marcavertix.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/marcabelliz.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/noticiasgerais.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/noticias.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/trabalhe-conosco.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/cadastro.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/contato.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/representantes.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/noticias.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/produto.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/menu-bottom.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/contato.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/trabalheconosco.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/sass/normalize.scss",
+		"/Applications/MAMP/htdocs/belliz-vioti/css/normalize.css",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/cadastro.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/css/fake.css",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/home.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/front/sobre-nos.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/sobrenos.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/system/libraries/Typography.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/views/adm/top.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/system/core/Controller.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/produtos.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/marcakess.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/marcaenox.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/marcaricca.php",
+		"/Applications/MAMP/htdocs/belliz-vioti/application/controllers/representantes.php",
+		"/Applications/MAMP/htdocs/interprag/index.php",
+		"/Applications/MAMP/htdocs/interprag/descupinizacao/index.html",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/bottom.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/lista 2.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/slider.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/style.css",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/menu.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/login.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/painel_busca 3.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/top.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/home 2.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/style_interno01.css",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/lista.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/painel_busca 2.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/conteudo 2.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/start.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/home-content.php",
+		"/Applications/MAMP/htdocs/belliz-locaweb/application/views/adm/menu.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/login 2.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/home.php",
+		"/Applications/MAMP/htdocs/lis/sass/main.scss",
+		"/Applications/MAMP/htdocs/lis/js/main.js",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1365018019/lis/public_html/dev/iluminacao.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1365016946/lis/public_html/dev/designer.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1365022546/lis/public_html/dev/solucoes.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1365017080/lis/public_html/dev/designers.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1365018795/lis/public_html/dev/contato.php",
+		"/private/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/fz3temp-1/home-admin.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1364916342/lis/public_html/dev/areas-atuacao.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1364916757/lis/public_html/dev/acessorios.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1364925661/lis/public_html/dev/luminarias-decorativas.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1364925823/lis/public_html/dev/tailor-made.php",
+		"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1364925869/lis/public_html/dev/equipamentos-auxiliares2.php"
+	],
+	"find":
+	{
+		"height": 155.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/belliz-vioti,-*.scss,-*.css",
+			"/Applications/MAMP/htdocs/interprag,-*.scss,-*.css",
+			"/Applications/MAMP/htdocs/lis,-*.scss,-*.css",
+			"/Applications/MAMP/htdocs/ninecon",
+			"/Applications/MAMP/htdocs/lis3",
+			"/Applications/MAMP/htdocs/sandra-freitas",
+			"C:\\xampp\\htdocs\\sandra-freitas",
+			"C:\\xampp\\htdocs\\casamento-claudia,-*.js,-*.swf,-*.css",
+			"C:\\xampp\\htdocs\\casamentoclaudia,-*.js,-*.swf,-*.css",
+			"C:\\xampp\\htdocs\\treinamento,-*.js,-*.swf,-*.css",
+			"C:\\xampp\\htdocs\\aluisio-php",
+			"C:\\xampp\\htdocs\\aluisio",
+			"C:\\xampp\\htdocs\\aluisio,-*.php,-*.js,-*.css",
+			"C:\\xampp\\htdocs\\aluisio"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flexslider-icon",
+			"flexslider",
+			"next",
+			"ul",
+			"<a",
+			"normalize",
+			"top",
+			"middle",
+			"flickr",
+			"flexslider",
+			"four",
+			"three",
+			"padding",
+			"agenda",
+			"sixteen",
+			"eight",
+			"seven",
+			"span6",
+			"four",
+			"Ouvir",
+			"normalize",
+			"span3",
+			"span4",
+			"margin",
+			"padding",
+			"margin",
+			"left",
+			"image",
+			"js/",
+			"main",
+			"css",
+			"js/",
+			".",
+			"youtube",
+			"flickr",
+			"instagram",
+			"div",
+			"twitter",
+			"role",
+			"name",
+			"Please",
+			"browser",
+			"versão",
+			"outdated",
+			"seulpindo",
+			"email",
+			"view",
+			"autoload",
+			"base_url",
+			"batata1901",
+			"smtp_",
+			"smtp",
+			"$",
+			"condition",
+			"message",
+			"subject",
+			";",
+			"com",
+			"iapd",
+			"cadastr",
+			"http://www.clinicasandrafreitas.com.br",
+			"mages/campanha-check-in3_",
+			"img",
+			"</td>",
+			"id=\"",
+			"id",
+			"<span style=\"background-image: url",
+			"data-thumb=\"{base_url}img/marcas",
+			"footer",
+			";\n",
+			";",
+			"<img src=\"img/noticias/1.jpg\" alt=\"Noticias\" />",
+			";",
+			"jpg\"",
+			"exljbris",
+			"exljbris_-_museo-300-webfont.eot",
+			"jpg",
+			"width='995px' height='435px' ",
+			".jpg",
+			"imagem}",
+			"{base_url}upload",
+			"\">",
+			"href=\"{base_url}",
+			"{base_url}",
+			"data-thumb",
+			"logo",
+			"$font-menu",
+			"green",
+			"</h2>",
+			"iv>",
+			"<img",
+			"imagens/email-mkt-dia-das-maes_",
+			"</td>",
+			"imagens/email-mkt-dia-das-maes_",
+			"</td>",
+			"vertix",
+			"noticia",
+			"menu-bottom",
+			"aux-banner",
+			"marcas",
+			"; ",
+			"home",
+			"        .",
+			".col-left-big",
+			"Ricca",
+			"span",
+			"<li>",
+			"<span style=\"background-",
+			"class=\"\"",
+			"<a href=\"{base_url}noticia/show/",
+			"Vídeos",
+			"Novidades",
+			"ox-little-new",
+			"</div><!-- img-video -->",
+			"<div class=\"box-little-",
+			"<div class=\"box-little-new belliz-news\">",
+			"width",
+			"');\n",
+			"html",
+			"flex-activ",
+			"home",
+			";",
+			"belliz",
+			"box",
+			"produto",
+			"home",
+			".stop()",
+			"flexslider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  <li><a href=\"http://www.interprag.com.br\" class=\"active\" target=\"_self\"><span>HOME</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/empresa\" target=\"_self\"><span>EMPRESA</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/noticias\" target=\"_self\"><span>NOTÍCIAS</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/descupinizacao\" target=\"_self\"><span>DESCUPINIZAÇÃO</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/dedetizacao\" target=\"_self\"><span>DESINSETIZAÇÃO</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/desratizacao\" target=\"_self\"><span>DESRATIZAÇÃO</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/desentupimento\" target=\"_self\"><span>DESENTUPIMENTO</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/outros-servicos\" target=\"_self\"><span>OUTROS SERVIÇOS</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/meio-ambiente\" target=\"_self\"><span>MEIO AMBIENTE</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/parceiros\" target=\"_self\"><span>PARCEIROS</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/contato\" target=\"_self\"><span>CONTATO</span></a></li>",
+			"<ul class=\"menu\">\n  <li><a href=\"http://www.interprag.com.br\" class=\"active\" target=\"_self\"><span>HOME</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/empresa\" target=\"_self\"><span>EMPRESA</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/noticias\" target=\"_self\"><span>NOTÍCIAS</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/descupinizacao\" target=\"_self\"><span>DESCUPINIZAÇÃO</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/dedetizacao\" target=\"_self\"><span>DESINSETIZAÇÃO</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/desratizacao\" target=\"_self\"><span>DESRATIZAÇÃO</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/desentupimento\" target=\"_self\"><span>DESENTUPIMENTO</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/outros-servicos\" target=\"_self\"><span>OUTROS SERVIÇOS</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/meio-ambiente\" target=\"_self\"><span>MEIO AMBIENTE</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/parceiros\" target=\"_self\"><span>PARCEIROS</span></a></li>\n  <li><a href=\"http://www.interprag.com.br/contato\" target=\"_self\"><span>CONTATO</span></a></li>\n</ul>",
+			"        <!--[if lt IE 8]>\n            <p class=chromeframe>Seu navegador é <em>antigo!</em> <a href=\"http://browsehappy.com/\">Utilize um navegador mais moderno e seguro</a> ou <a href=\"http://www.google.com/chromeframe/?redirect=true\">instale o Google Chrome Frame</a> para navegar nesse site.</p>\n        <![endif]-->",
+			"LIS",
+			"<?php include \"inc/header.php\" ?>\n<?php include \"inc/aux-contact.php\" ?>",
+			"<?php include 'includes/aux-tratamentos.php'; ?>",
+			"        <ul>\n          <li><a href=\"index.php\">HOME</a></li>\n          <li><a href=\"nossa-historia.php\">NOSSA HISTÓRIA</a></li>\n          <li><a href=\"para-padrinhos.php\">PARA OS PADRINHOS</a></li>\n          <li><a href=\"duvidas.php\">DÚVIDAS FREQUENTES</a></li>\n          <li><a href=\"fotos.php\">FOTOS DO LOCAL</a></li>\n          <li><a href=\"mensagens.php\">MENSAGENS</a></li>\n        </ul>",
+			"          <li><a href=\"index.php\">HOME</a></li>\n          <li><a href=\"nossa-historia.php\">NOSSA HISTÓRIA</a></li>\n          <li><a href=\"duvidas.php\">DÚVIDAS FREQUENTES</a></li>\n          <li><a href=\"para-padrinhos.php\">PARA OS PADRINHOS</a></li>\n          <li><a href=\"fotos.php\">FOTOS DO LOCAL</a></li>\n          <li><a href=\"mensagens.php\">MENSAGENS</a></li>",
+			"              <li>\n                <img src=\"img/slider/1.jpg\" alt=\"Imagem 1\" />\n              </li>\n\n              <li>\n                <img src=\"img/slider/2.jpg\" alt=\"Imagem 1\" />\n              </li>\n\n              <li>\n                <img src=\"img/slider/3.jpg\" alt=\"Imagem 1\" />\n              </li>",
+			".php",
+			"<iframe src='http://selos.climatempo.com.br/selos/MostraSelo.php?CODCIDADE=558,107,84,321&amp;SKIN=padrao' scrolling='No' frameborder='0' width='150' height='170' marginheight='0' marginwidth='0'></iframe>",
+			"<?php include 'includes/menu.php' ?>",
+			".php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 261.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"fle",
+				"sass/flexslider.scss"
+			],
+			[
+				"fon-",
+				"sass/font-awesome.scss"
+			],
+			[
+				"skel",
+				"sass/skeleton.css"
+			],
+			[
+				"flex",
+				"sass/flexslider.scss"
+			],
+			[
+				"",
+				"404.html"
+			],
+			[
+				"humans",
+				"humans.txt"
+			],
+			[
+				"home.php",
+				"application/views/home.php"
+			],
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"autolo",
+				"application/config/autoload.php"
+			],
+			[
+				"config.",
+				"application/config/config.php"
+			],
+			[
+				"data",
+				"application/config/database.php"
+			],
+			[
+				"route",
+				"application/config/routes.php"
+			],
+			[
+				"databe",
+				"application/config/database.php"
+			],
+			[
+				"confi",
+				"application/config/config.php"
+			],
+			[
+				"we",
+				"application/views/welcome_message.php"
+			],
+			[
+				"wel",
+				"application/controllers/welcome.php"
+			],
+			[
+				"estrut",
+				"css/estrutura.css"
+			],
+			[
+				"estru",
+				"css/estrutura.css"
+			],
+			[
+				"plugin",
+				"js/plugins.js"
+			],
+			[
+				"mains",
+				"js/main.js"
+			],
+			[
+				"typo",
+				"sass/_typography.scss"
+			],
+			[
+				"main",
+				"sass/main.scss"
+			],
+			[
+				"head",
+				"application/views/front/header.php"
+			],
+			[
+				"home",
+				"application/views/front/home-content.php"
+			],
+			[
+				"base",
+				"sass/_base.scss"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"flr",
+				"css/flexslider.css"
+			],
+			[
+				"videos",
+				"application/views/front/videosgerais.php"
+			],
+			[
+				"noticias",
+				"application/views/front/noticiasgerais.php"
+			],
+			[
+				"video",
+				"application/views/front/videosgerais.php"
+			],
+			[
+				"flexse",
+				"css/flexslider.css"
+			],
+			[
+				"heade",
+				"application/views/front/header.php"
+			],
+			[
+				"he",
+				"application/views/front/header.php"
+			],
+			[
+				"h",
+				"application/views/front/header.php"
+			],
+			[
+				"header",
+				"application/views/front/header.php"
+			],
+			[
+				"produto",
+				"application/views/front/produtobelliz.php"
+			],
+			[
+				"produ",
+				"application/controllers/produtobelliz.php"
+			],
+			[
+				"top",
+				"application/views/front/top.php"
+			],
+			[
+				"fancy",
+				"css/jquery.fancybox.css"
+			],
+			[
+				"frontproduto",
+				"application/views/front/produtobelliz.php"
+			],
+			[
+				"est",
+				"css/estrutura.css"
+			],
+			[
+				"produt",
+				"application/views/front/produtobelliz.php"
+			],
+			[
+				"notica",
+				"application/views/front/noticiasgerais.php"
+			],
+			[
+				"gerais",
+				"application/views/front/noticiasgerais.php"
+			],
+			[
+				"noticiasger",
+				"application/views/front/noticiasgerais.php"
+			],
+			[
+				"notici",
+				"application/views/front/noticiasbelliz.php"
+			],
+			[
+				"marca",
+				"application/views/front/marca-belliz.php"
+			],
+			[
+				"mai",
+				"sass/main.scss"
+			],
+			[
+				"fronthome-",
+				"application/views/front/home-content.php"
+			],
+			[
+				"fronthome",
+				"application/views/front/home.php"
+			],
+			[
+				"foo",
+				"application/views/front/footer.php"
+			],
+			[
+				"controllersnotici",
+				"application/controllers/noticia.php"
+			],
+			[
+				"frontnotici",
+				"application/views/front/noticia.php"
+			],
+			[
+				"frontvertix",
+				"application/views/front/marca-vertix.php"
+			],
+			[
+				"frontkess",
+				"application/views/front/marca-kess.php"
+			],
+			[
+				"frontenox",
+				"application/views/front/marca-enox.php"
+			],
+			[
+				"frontmarca",
+				"application/views/front/marca-vertix.php"
+			],
+			[
+				"marcaver",
+				"application/controllers/marcavertix.php"
+			],
+			[
+				"mar",
+				"application/views/front/marca-ricca.php"
+			],
+			[
+				"marcabelliz",
+				"application/views/front/marca-belliz.php"
+			],
+			[
+				"noticia",
+				"application/views/front/noticias.php"
+			],
+			[
+				"footer",
+				"application/views/front/footer.php"
+			],
+			[
+				"notic",
+				"application/views/front/noticiasgerais.php"
+			],
+			[
+				"noticiabell",
+				"application/views/front/noticiasbelliz.php"
+			],
+			[
+				"noti",
+				"application/controllers/noticiasgerais.php"
+			],
+			[
+				"views/produ",
+				"application/views/front/produtobelliz.php"
+			],
+			[
+				"front/marca",
+				"application/views/front/marca-belliz.php"
+			],
+			[
+				"marcabe",
+				"application/views/front/marca-belliz.php"
+			],
+			[
+				"ricca",
+				"application/views/front/marca-ricca.php"
+			],
+			[
+				"marcakess",
+				"application/views/front/marca-kess.php"
+			],
+			[
+				"verti",
+				"application/views/front/marca-vertix.php"
+			],
+			[
+				"vertix",
+				"application/views/front/marca-vertix.php"
+			],
+			[
+				"marcari",
+				"application/views/front/marca-ricca.php"
+			],
+			[
+				"estrutu",
+				"css/estrutura.css"
+			],
+			[
+				"trabalhe",
+				"application/views/front/trabalhe-conosco.php"
+			],
+			[
+				"cadasr",
+				"application/views/front/cadastro.php"
+			],
+			[
+				"contat",
+				"application/views/front/contato.php"
+			],
+			[
+				"content",
+				"application/views/front/home-content.php"
+			],
+			[
+				"estr",
+				"css/estrutura.css"
+			],
+			[
+				"represt",
+				"application/views/front/representantes.php"
+			],
+			[
+				"home-",
+				"application/views/front/home-content.php"
+			],
+			[
+				"contato",
+				"application/views/front/contato.php"
+			],
+			[
+				"repre",
+				"application/views/front/representantes.php"
+			],
+			[
+				"repres",
+				"application/views/front/representantes.php"
+			],
+			[
+				"menu-",
+				"application/views/front/menu-bottom.php"
+			],
+			[
+				"cont",
+				"application/views/front/home-content.php"
+			],
+			[
+				"cadas",
+				"application/views/front/cadastro.php"
+			],
+			[
+				"cadastr",
+				"application/views/front/cadastro.php"
+			],
+			[
+				"fake",
+				"css/fake.css"
+			],
+			[
+				"trabalh",
+				"application/views/front/trabalhe-conosco.php"
+			],
+			[
+				"her",
+				"application/views/front/header.php"
+			],
+			[
+				"cadastro",
+				"application/controllers/cadastro.php"
+			],
+			[
+				"trabal",
+				"application/views/front/trabalhe-conosco.php"
+			],
+			[
+				"traba",
+				"application/controllers/trabalheconosco.php"
+			],
+			[
+				"es",
+				"css/estrutura.css"
+			],
+			[
+				"normal",
+				"sass/normalize.scss"
+			],
+			[
+				"estry",
+				"system/libraries/Typography.php"
+			],
+			[
+				"ty",
+				"sass/_typography.scss"
+			],
+			[
+				"front/home",
+				"application/views/front/home-content.php"
+			],
+			[
+				"marcaen",
+				"application/controllers/marcaenox.php"
+			],
+			[
+				"mainscss",
+				"sass/main.scss"
+			],
+			[
+				"marca-ri",
+				"application/views/front/marca-ricca.php"
+			],
+			[
+				"marcabelli",
+				"application/controllers/marcabelliz.php"
+			],
+			[
+				"main.sc",
+				"sass/main.scss"
+			],
+			[
+				"top.php",
+				"application/views/front/top.php"
+			],
+			[
+				"home.",
+				"application/controllers/home.php"
+			],
+			[
+				"sobre-no",
+				"application/views/front/sobre-nos.php"
+			],
+			[
+				"sobre-",
+				"application/views/front/sobre-nos.php"
+			],
+			[
+				"sobre",
+				"application/controllers/sobrenos.php"
+			],
+			[
+				"desi",
+				"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1364936426/lis/public_html/dev/designers.php"
+			],
+			[
+				"lumin",
+				"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1364936364/lis/public_html/dev/luminarias-decorativas.php"
+			],
+			[
+				"acesso",
+				"acessorios.php"
+			],
+			[
+				"conto",
+				"contato.php"
+			],
+			[
+				"con",
+				"contato.php"
+			],
+			[
+				"sty",
+				"config/stylo.css"
+			],
+			[
+				"galeria",
+				"galeria.php"
+			],
+			[
+				"hoe",
+				"home.php"
+			],
+			[
+				"css",
+				"css/flexslider.css"
+			],
+			[
+				"niv",
+				"css/nivo-slider.css"
+			],
+			[
+				"ma",
+				"js/main.js"
+			],
+			[
+				"ilumi",
+				"/var/folders/wb/08l7bl394qb5xvbz7nn_zr940000gn/T/sublime-sftp-browse-1364485383/lis/public_html/dev/iluminacao.php"
+			],
+			[
+				"fles",
+				"css/flexslider.css"
+			],
+			[
+				"slider",
+				"css/flexslider.css"
+			],
+			[
+				"js",
+				"js/vendor/jquery-1.8.2.min-ck.js"
+			],
+			[
+				"mode",
+				"js/vendor/modernizr-2.6.2.min.js"
+			],
+			[
+				"main-",
+				"js/main-ck.js"
+			],
+			[
+				"jquery",
+				"js/vendor/jquery-1.8.2.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true
+}
