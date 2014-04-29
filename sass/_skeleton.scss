@@ -53,8 +53,8 @@
     
     .container .one-fifth.column                { width: 172px; }
 
-    .container .one-third.column                { width: 300px; }
-    .container .two-thirds.column               { width: 620px; }
+    .container .one-third.column                { width: $width / 3 - ($margin * 2); }
+    .container .two-thirds.column               { width: ($width / 3) * 2 - ($margin * 2) ; }
 
     /* Offsets */
     .container .offset-by-one                   { padding-left: $one-block;  }
